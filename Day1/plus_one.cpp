@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //function
     vector<int> plusOne(vector<int>& digits)
     {
         vector<int> ans;
